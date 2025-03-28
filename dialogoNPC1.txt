@@ -1,3 +1,4 @@
 Hola, espero que se encuentre muy bien.Tengo una pregunta muy importante para hacerle.
 Y debe responder SI o NO. Acá no sirve el "depende" como si fuera que esta leyendo a Huizinga...
 ¿Es usted hincha del Club Atlético River Plate? *Apreta el puño con mucha fuerza*
+["dialogoNPC-SI"]
